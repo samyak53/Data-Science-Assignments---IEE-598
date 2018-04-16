@@ -1,12 +1,12 @@
-#Assignment 1
+# Assignment 1
 
 This directory contains all scripts which were submitted as a part of Assignment 1.
 
-###What is in here:  
+### What is in here:  
 
 This assignment is available in `Multiple_Linear_regression.ipynb`which is a python notebook containing the analysis. `houseprice.csv` is a csv file which contains the data which was used to do the analysis. `Polynomial_Regression_model.ipynb` contains a simulation to estimate bias and variance for the polynomial model.
 
-###Important Tasks: 
+### Important Tasks: 
 
 * Plotted the correlation between all the input variables and output variables pairs.
 * Identified the first three pairs with strongest correlation (either positive or negative).
