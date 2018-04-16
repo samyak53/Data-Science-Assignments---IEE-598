@@ -2,10 +2,7 @@
 
 This repository contains all assignments which were done as a part of Data Science for System Informatics - IEE 598 which I took at Arizona State University.
 
-*What is here*:
+*What is in here*:
+Every Directory contains all Jupyter notebooks along with the Data sets used to perform and execute the machine learning alogithms along with the results and inferences.
 
-##### Assignment 1:
-##### Assignment 2:
-##### Assignment 3:
-##### Assignment 4:
-##### Assignment 5:
+
